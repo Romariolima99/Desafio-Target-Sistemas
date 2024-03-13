@@ -6,3 +6,15 @@
 // a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 
 // b) Evite usar funções prontas, como, por exemplo, reverse;
+
+
+function reverseString(str) {
+    let reversed = '';
+    for (let i = str.length - 1; i >= 0; i--) {
+      reversed += str[i];
+    }
+    return reversed;
+  }
+  
+  let palavra = "Romário, Lima"; // String a ser invertida
+  console.log("5) String invertida:", reverseString(palavra));
