@@ -24,3 +24,9 @@ O quarto desafio descreve um cenário onde há três interruptores, cada um cone
 - 5 - Inversão de String:
 No quinto desafio, é solicitado a criação de um programa que inverta os caracteres de uma string, sem usar funções prontas.
 
+
+## Clone o repositório:
+
+```js
+    git clone https://github.com/Romariolima99/Desafio-Target-Sistemas
+ ```
