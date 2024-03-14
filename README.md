@@ -1,6 +1,6 @@
 # Desafios para Vaga de Estágio - Desafio-Target-Sistemas
 
-<img src="https://i.imgur.com/NrwDYPF.png" alt="GIF" data-canonical-src="https://i.imgur.com/NrwDYPF.png" style="max-width: 50%;">
+<img src="https://i.imgur.com/1NABAeE.jpg" alt="GIF" data-canonical-src="https://i.imgur.com/1NABAeE.jpg" style="max-width: 50%;">
 
 - Este repositório contém soluções para os desafios propostos pela empresa para a vaga de estágio. Abaixo estão os detalhes dos desafios e as soluções propostas:
 
